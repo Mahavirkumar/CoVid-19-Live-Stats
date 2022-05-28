@@ -1,2 +1,2 @@
-# CoVid-19-Live-Stats
-showing Live stats of Total Corona Cases, Total Recovered, Total Death and each day New Cases arise all over Country 
+# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+COVID-19 with HTML5, CSS3 and JavaScript
